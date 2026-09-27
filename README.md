@@ -1,5 +1,7 @@
-## Hi there 👋
 ![Maria's GitHub Banner](./banner.png.png)
+
+## Hi there 👋
+
 <!--
 **maria-dev4/maria-dev4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
