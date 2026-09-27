@@ -1,18 +1,22 @@
 ![Maria's GitHub Banner](./banner.png.png)
 
-## Hi there 👋
+## Hi, I'm Maria 👋
 
-<!--
-**maria-dev4/maria-dev4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer Learner | Building with JavaScript, React & Next.js.
 
-Here are some ideas to get you started:
+I’m learning by building real-world projects and improving my skills step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+* 🌱 Currently learning React & Next.js
+* 💻 Building real-world projects to strengthen my frontend skills
+* 📚 Learning through practice and continuous improvement
+* 🎯 Working toward becoming a Full-Stack Developer
+
+### Tech Stack
+
+HTML • CSS • JavaScript • React • Next.js • Tailwind CSS • Git • GitHub
+
+### Connect With Me
+
+🔗 LinkedIn
