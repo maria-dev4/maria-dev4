@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Maria
 
-### Frontend Developer Learner | JavaScript • React • Next.js
+### Aspiring Frontend Developer | JavaScript • React • Next.js
 
 **Learning by building. Growing step by step.**
 
@@ -15,10 +15,10 @@
 ## 🚀 About Me
 
 * 🌱 Currently learning **React & Next.js**
-* 💻 Building real-world projects to strengthen my frontend skills
-* 📚 Learning through practice and continuous improvement
+* 💻 Building real-world projects to strengthen my frontend development skills
+* 📚 Learning through hands-on practice and continuous improvement
 * 🎯 Working toward becoming a **Full-Stack Developer**
-* ⚡ Improving my coding skills through hands-on projects
+* ⚡ Improving my problem-solving and coding skills through practical projects
 
 ---
 
@@ -38,7 +38,7 @@
 
 [![Learning](https://skillicons.dev/icons?i=react,nextjs)](https://skillicons.dev)
 
-**React & Next.js** — learning concepts, building projects, and improving problem-solving skills.
+**React & Next.js** — learning concepts, building projects, and improving problem-solving skills through hands-on practice.
 
 ---
 
